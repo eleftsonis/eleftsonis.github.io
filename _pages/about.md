@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>1 Rue Honoré d'Estienne d'Orves</p>
-    <p>Bâtiment Alan Turing</p>
-    <p>91120 Palaiseau</p>
+  more_info: #>
+    #<p>1 Rue Honoré d'Estienne d'Orves</p>
+    #<p>Bâtiment Alan Turing</p>
+    #<p>91120 Palaiseau</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
